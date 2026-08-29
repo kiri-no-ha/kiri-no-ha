@@ -8,7 +8,7 @@
 
 <table>
       <br>
-      <b>GameDev & Web Developer | C# / Java | Class of 2027</b>
+      <b>GameDev & Web Developer(Full-Stack) | C# / Java | Class of 2027</b>
       <br><br>
       условно страдаю фигнёй
       <br><br>
