@@ -1,15 +1,9 @@
 <div align="center">
   <img src="https://i.pinimg.com/736x/45/50/17/455017b7277c1b23577754b4d45446d3.jpg" style="width:50%; height:auto; display:block;">
 </div>
-
 <br>
-
 <table>
-  <tr>
-    <td valign="middle">
-      <h1>kiri-no-ha</h1>
-    </td>
-  </tr>
+  <h1>kiri-no-ha</h1>
 </table>
 
 <table>
