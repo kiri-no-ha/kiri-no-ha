@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <br>
+      
       <b>GameDev & Web Developer | C# / Java | Class of 2027</b>
       <br><br>
       условно страдаю фигнёй
@@ -26,7 +26,7 @@
         <li><b><a href="https://github.com">AnimControler2D</a></b> — Контроллер 2D-анимации для Unity.</li>
         <li><b><a href="https://github.com">kiri-project.net</a></b> — сайт-витрина</li>
       </ul>
-      <br>
+      
     </td>
   </tr>
 </table>
