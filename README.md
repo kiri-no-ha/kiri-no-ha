@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <h1>Hi! I am kiri-no-ha 👋</h1>
+      <h1>kiri-no-ha</h1>
     </td>
   </tr>
 </table>
