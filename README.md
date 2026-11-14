@@ -15,7 +15,7 @@
       <b>Мои актуальные проекты:</b>
       <ul>
         <li><b><a href="https://github.com">AiMilitary</a></b> — ИИ на генетическом алгоритме.</li>
-        <li><b><a href="https://github.com">AnimControler2D</a></b> — Контроллер 2D-анимации для Unity.</li>
+        <li><b><a href="https://github.com/kiri-no-ha/AnimController2D">AnimControler2D</a></b> — Контроллер 2D-анимации для Unity.</li>
         <li><b><a href="https://github.com">kiri-project.net</a></b> — сайт-витрина</li>
       </ul>
       <br>
