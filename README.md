@@ -13,11 +13,11 @@
   <b>GameDev & Full-Stack Web Developer</b> · <b>Class of 2027</b>
 </p>
 
-<p>
-  <img src="https://shields.io" alt="C#" />
+<p align="center">
+  <img src="https://demolab.com" alt="C#" />
   <img src="https://shields.io" alt="Rust" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://shields.io" alt="Unity" />
+  <img src="https://shields.io" alt="React" />
   <img src="https://shields.io" alt="Node.js" />
 </p>
 
