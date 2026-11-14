@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/a9/d5/64/a9d5646609ee2b8bd7f68af906737d62.jpg" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">я kiri-no-ha</h1>
+<h1 align="center">kiri-no-ha</h1>
 
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/lang-🇷🇺_RU-blue" alt="RU" /></a>
