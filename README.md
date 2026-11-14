@@ -10,16 +10,14 @@
       <br>
       <b>GameDev & Web Developer(Full-Stack) | C# / Java | Class of 2027</b>
       <br><br>
-      условно страдаю фигнёй
-      <br><br>
       <b>Мои актуальные проекты:</b>
       <ul>
         <li><b><a href="https://github.com/kiri-no-ha/AiMilitary">AiMilitary</a></b> — ИИ на генетическом алгоритме.</li>
         <li><b><a href="https://github.com/kiri-no-ha/kiriton">kiriton</a></b> — Сборник шаблонов сайтов</li>
         <li><b><a href="https://github.com/kiri-no-ha/AnimController2D">AnimControler2D</a></b> — Контроллер 2D-анимации для Unity.</li>
-         ---
+        <br><br>
       <b>Хакатоны:</b>
-        <li><b><a href="https://github.com/kiri-no-ha/Datark_RF_Guardian_MVP">kiriton</a></b> — Сборник шаблонов сайтов</li>
+        <li><b><a href="https://github.com/kiri-no-ha/Datark_RF_Guardian_MVP">kiriton</a></b> — Сборник шаблонов сайтов</li>  
       </ul>
       <br>
 </table>
