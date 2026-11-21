@@ -1,0 +1,20 @@
+name: Generate Bad Apple
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Обновление раз в день
+  workflow_dispatch: # Возможность запустить вручную
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Bad Apple SVG
+        uses: chris-kruining/bad-apple-readme@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
