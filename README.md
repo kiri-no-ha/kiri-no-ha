@@ -32,3 +32,31 @@
 ### Хакатоны
 
 * **[Datark RF Guardian MVP](https://github.com/kiri-no-ha/Datark_RF_Guardian_MVP)** — прототип для моделирования и анализа радиопокрытия (LTE/DAS и Wi-Fi) в модульном ЦОД (React + FastAPI).
+
+<div align="center">
+  <img src="https://skillicons.dev" height="40" alt="stack" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev" height="40" alt="tools" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+    <img alt="github-snake" src="https://githubusercontent.com" />
+  </picture>
+</p>
