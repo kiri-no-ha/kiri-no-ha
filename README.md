@@ -40,3 +40,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/kiri-no-ha/kiri-no-ha/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kiri-no-ha/kiri-no-ha/smil-apple/smil-apple.svg" alt="Bad Apple" />
+</p>
